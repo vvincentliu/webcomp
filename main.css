@@ -1,0 +1,137 @@
+q
+
+body {
+  width: 1024px;
+} 
+  text-transform: uppercase;
+  font-size: 50px;
+  margin-bottom: 0;
+  color: white;
+}
+
+h2 {
+  margin-top: 0;
+  margin-bottom: 45px;
+  color: white
+}
+
+.header {
+  background-image: url(dog-blue-background.jpg);
+  background-size: cover;
+  text-align: right;
+  padding: 50px;
+  margin-bottom: 0;
+
+}
+ 
+img {
+  width: 50%;
+  border-top: 10px solid #ab936b;
+  border-bottom: 10px solid #ab936b;
+  border-left: 10px solid #ab936b;
+  border-right: 10px solid #ab936b;
+  margin: auto 100px;
+  border-radius: 60%;
+}
+
+.product {
+  width: 40%;
+  display: inline-block;
+}
+
+a {
+  text-decoration: none;
+  padding: 10px;
+  background-color: #ab936b;
+  color: white;
+  text-transform: uppercase;
+}
+
+a:hover {
+  text-decoration: underline;
+  padding: 10px;
+  background-color: black;
+  color: white;
+}
+
+h1, h2, a {
+}
+ 
+.name, .cost {
+  margin-top: 0;
+  display: block;
+  width: 1000px;
+  margin: auto 150px;
+}
+
+.location {
+  border-top: 5px solid white;
+  background-color: rgb(2,116,164);
+  color: white;
+  font-family: 'Josefin Sans';
+}
+
+.about {
+  border-top: 5px solid white;
+  background-color: rgb(43,140,181);
+  color: white;
+  font-family: 'Josefin Sans';
+}
+
+.about-text {
+  margin-left: 25px;
+  font-size: 18px
+}
+
+.dog-blue-background {
+  display: none
+}
+
+p {
+  margin-left: 25px;
+}
+
+.main {
+  border-top: 5px solid white;
+  background-color: rgb(1,124,171);
+  color: white;
+  font-family: 'Josefin Sans';
+}
+
+h3 {
+  text-transform: uppercase;
+  font-size: 20px;
+  margin-left: 20px;
+  text-decoration: underline;
+  text-decoration: bold;
+  font-family: 'Josefin Sans';
+}
+
+.copyright {
+  margin-bottom: 40px
+}
+
+.footer {
+  border-top: 5px solid white;
+  background-color: rgb(3,112,160);
+  color: white;
+  text-transform: uppercase;
+  text-decoration: underline;
+  padding-bottom: 20px;
+}
+
+.copyright {
+  margin-top: 10px
+}
+
+.site-links {
+  margin-bottom: 20px;
+}
+.site-links a {
+  font-size: 12px;
+  padding: 5px 10px;
+}
+
+.fa {
+  color: white;
+}
